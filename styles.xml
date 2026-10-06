@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TwinSound" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
